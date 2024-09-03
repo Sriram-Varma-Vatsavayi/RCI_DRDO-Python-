@@ -1,0 +1,3 @@
+([('drdo_v3_final',
+   '/Users/sriramvarma/Desktop/DRDO/dist/drdo_v3_final',
+   'EXECUTABLE')],)
